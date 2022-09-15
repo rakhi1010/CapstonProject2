@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Pizza",
+    "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+    "itemList": [
+      {
+        "id": 1,
+        "name": "Cheese Mushrooms Pizza ",
+        "price": 450,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/11/29/13/02/cheese-1869708_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Pizza Oven italian",
+        "price": 360,
+        "imgUrl": "https://cdn.pixabay.com/photo/2021/07/19/16/04/pizza-6478478_960_720.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Stone oven Pizza",
+        "price": 550,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/04/21/22/50/pizza-1344720_960_720.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Food Italy Pizza",
+        "price": 480,
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/12/05/20/08/pizza-3000273_960_720.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Burger",
+    "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+    "itemList": [
+      {
+        "id": 1,
+        "name": "Barbeque Beef Bread",
+        "price": 350,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/03/05/22/55/barbeque-1239407_960_720.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Hamburger Fries",
+        "price": 450,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/03/26/23/19/hamburger-1281855_960_720.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Cheeseburger Chips",
+        "price": 460,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/01/22/20/23/burger-1156564_960_720.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sandwich food",
+        "price": 650,
+        "imgUrl": "https://cdn.pixabay.com/photo/2021/01/19/08/47/sandwich-5930496_960_720.jpg"
+      }
+    ]
+  }
+]
